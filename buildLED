@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Building the makeLED-hw5 application"
+echo "The C++ version is called makeLED-hw5"
+g++ makeLED-hw5.cpp -o makeLED-hw5
+echo "Finished"
+
